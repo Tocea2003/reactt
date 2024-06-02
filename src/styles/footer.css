@@ -1,0 +1,39 @@
+.footer {
+  background-color: var(--bg-color);
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer h2 {
+  color: #ba9373;
+  margin-bottom: 10px;
+}
+
+footer p {
+  color: #ba9373;
+  margin-bottom: 5px;
+}
+
+footer a {
+  color: #ba9373;
+  text-decoration: none;
+}
+
+footer div {
+  margin-top: 20px;
+}
+
+footer div a,
+footer div button {
+  margin: 0 10px;
+  color: #ba9373;
+}
+
+footer div button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
